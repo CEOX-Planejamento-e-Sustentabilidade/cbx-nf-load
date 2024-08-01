@@ -2,6 +2,9 @@
 .venv/
 
 xml/
+extract/
+zip/
+zip_lucas/
 
 src/__pycache__/
 
